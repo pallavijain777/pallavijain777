@@ -39,12 +39,38 @@ SOLID Principles · TDD · Unit Testing · Integration Testing · CI/CD
 
 ---
 
-## 🏆 Client Feedback
+## 💬 What Clients Say
 
-![Client Feedback Screenshot](https://github.com/user-attachments/assets/7c201be2-4190-4b95-8e38-fb3a71839cc4)
-![Client Feedback Screenshot](https://github.com/user-attachments/assets/0156b6a3-4925-4ede-ab04-c840f0f227ef)
+Here’s what some amazing clients have said about working with me on Upwork:
 
-You can check more reviews on my [Upwork Profile](https://www.upwork.com/freelancers/~014829cdf53bdcf5f4).
+---
+
+### ⭐️⭐️⭐️⭐️⭐️ .NET Core API Development
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7c201be2-4190-4b95-8e38-fb3a71839cc4" width="500" alt="Client Feedback 1" />
+</p>
+
+> *"Having had the privilege of working with Pallavi over the course of the past year, I would strongly recommend her for any IT project or team...  
+> She demonstrated an advanced skill level in .NET Core, C#, MongoDB, and overall API architecture.  
+> Pallavi was punctual with meeting times, deliverables, and release dates. It’s been an absolute pleasure working with her!"*
+
+---
+
+### ⭐️⭐️⭐️⭐️⭐️ Contract to Hire Full Stack Web Developer
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0156b6a3-4925-4ede-ab04-c840f0f227ef" width="500" alt="Client Feedback 2" />
+</p>
+
+> *"Pallavi is great to work with — collaborative, thorough, and flexible.  
+> She aligned with our business needs and always delivered clean, scalable code on time.  
+> Would 100% recommend her to anyone looking for a strong full stack developer and architect."*
+
+---
+
+🔗 [View more reviews on my Upwork profile](https://www.upwork.com/freelancers/~014829cdf53bdcf5f4)
+
 
 ---
 
