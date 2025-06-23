@@ -39,6 +39,18 @@ SOLID Principles · TDD · Unit Testing · Integration Testing · CI/CD
 
 ---
 
+## 🏆 Client Feedback
+
+![Client Feedback Screenshot](https://your-image-host.com/upwork-feedback-1.png)
+![Client Feedback Screenshot](https://your-image-host.com/upwork-feedback-2.png)
+
+> 🔹 *“Pallavi was fantastic to work with. She delivered clean, scalable code and went above and beyond.”*  
+> 🔹 *“Very professional, excellent technical communication, and extremely reliable.”*
+
+You can check more reviews on my [Upwork Profile](https://www.upwork.com/freelancers/~014829cdf53bdcf5f4).
+
+---
+
 ## 💬 Ask Me About
 
 - Building scalable web APIs in .NET Core  
