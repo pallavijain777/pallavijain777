@@ -39,6 +39,15 @@ SOLID Principles · TDD · Unit Testing · Integration Testing · CI/CD
 
 ---
 
+## 🏆 Client Feedback
+
+![Client Feedback Screenshot](https://github.com/user-attachments/assets/7c201be2-4190-4b95-8e38-fb3a71839cc4)
+![Client Feedback Screenshot](https://github.com/user-attachments/assets/0156b6a3-4925-4ede-ab04-c840f0f227ef)
+
+You can check more reviews on my [Upwork Profile](https://www.upwork.com/freelancers/~014829cdf53bdcf5f4).
+
+---
+
 ## 💬 Ask Me About
 
 - Building scalable web APIs in .NET Core  
