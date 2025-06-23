@@ -1,6 +1,6 @@
 # Hi, I'm Pallavi Jain 👋
 
-### 💻 Senior .NET Full Stack Developer | Tech Leader | Cloud Enthusiast
+### 💻 Senior .NET Full Stack Developer | Tech Leader 
 
 I'm a full stack developer with 13 years of professional experience, currently leading teams and delivering scalable web applications using modern technologies like **C#, .NET 8, React, Azure, AWS, and SQL Server**. I believe in writing clean, maintainable code and delivering high-quality solutions that solve real business problems.
 
@@ -44,7 +44,7 @@ SOLID Principles · TDD · Unit Testing · Integration Testing · CI/CD
 - Building scalable web APIs in .NET Core  
 - Low-code tools like Retool in production  
 - Cloud deployment strategies for small teams  
-- Team leadership and setting up DevOps workflows  
+- Team leadership
 
 ---
 
@@ -68,9 +68,8 @@ SOLID Principles · TDD · Unit Testing · Integration Testing · CI/CD
 ## 🤝 Let’s Connect
 
 - 📧 Email: pallavijain777@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/) *(insert your link)*  
-- 🌍 [Upwork Profile](https://www.upwork.com/freelancers/~014829cdf53bdcf5f4)  
-- 📊 [Power BI & Portfolio (coming soon)](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/) [(https://www.linkedin.com/in/pallavi-abax/  ]
+- 🌍 [Upwork Profile][(https://www.upwork.com/freelancers/~014829cdf53bdcf5f4)  ]
 
 ---
 
