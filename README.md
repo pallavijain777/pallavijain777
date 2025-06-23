@@ -65,6 +65,31 @@ SOLID Principles · TDD · Unit Testing · Integration Testing · CI/CD
 
 ---
 
+## 💼 Past Projects
+
+### 🧩 [KidAdvisor.ca](https://www.kidadvisor.ca) — *Full Stack Team Lead*
+- Built entire tech stack (React, .NET 8 Web API, SQL Server, Azure)
+- Implemented Stripe integration, Typesense search, and Retool dashboards
+- Managed CI/CD via GitHub and Azure DevOps
+- Mentored dev team and handled feature planning
+
+### 🎓 GrantEd — *Senior Full Stack Developer*
+- Set up AWS CI/CD pipelines (GitLab + CodeDeploy)
+- Developed backend logic and React-based UI from scratch
+- Delivered high-performance admin and user interfaces
+
+### 🌐 Government of Saudi Arabia — *Senior Web Developer*
+- Implemented Active Directory authentication and SOAP/WCF APIs
+- Designed internal portals with role management and Hangfire jobs
+- Optimized legacy systems using .NET and JQuery stack
+
+### 💹 Investello — *CTO & Tech Architect*
+- Built financial analytics platform from the ground up
+- Led product strategy, backend architecture, and frontend development
+- Used SQL Server, .NET MVC, Charting APIs, and 3rd party integrations
+
+---
+
 ## 🤝 Let’s Connect
 
 - 📧 Email: pallavijain777@gmail.com  
