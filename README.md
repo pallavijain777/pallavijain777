@@ -20,13 +20,13 @@ React · Next.js · JavaScript · TypeScript · HTML5 · CSS3
 SQL Server · PostgreSQL · MongoDB  
 
 **Cloud & DevOps:**  
-Azure · AWS · GitHub Actions · GitLab CI/CD · Docker · Azure DevOps  
+Azure · AWS · GitHub Actions · GitLab CI/CD · Docker · Azure DevOps  · Azure API Management · K8s (Kubernetes) · NATS
 
 **Low-code & Tools:**  
 Retool · Typesense · Power BI · Cloudinary · Imgix · Strapi  
 
 **Practices:**  
-SOLID Principles · TDD · Unit Testing · Integration Testing · CI/CD  
+SOLID Principles · TDD · Unit Testing · Integration Testing · CI/CD  · DDD
 
 ---
 
