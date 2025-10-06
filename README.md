@@ -2,7 +2,7 @@
 
 ### 💻 Senior .NET Full Stack Developer | Tech Leader 
 
-I'm a full stack developer with 16 years of professional experience, currently leading teams and delivering scalable web applications using modern technologies like **C#, .NET 8, React, Azure, AWS, and SQL Server**. I believe in writing clean, maintainable code and delivering high-quality solutions that solve real business problems. 16 Years of total experience in Programming and Software Projects Execution.
+I'm a full stack developer with 16 years of professional experience, currently leading teams and delivering scalable web applications using modern technologies like **C#, .NET 8, React, Azure, AWS, and SQL Server**. I believe in writing clean, maintainable code and delivering high-quality solutions that solve real business problems. 
 
 I’m passionate about tech, mentoring, and creating systems that are not only functional but future-ready. I’m also a **Microsoft Certified Solutions Associate (MCSA)** in Web Applications and an Upwork **Top Rated Plus** freelancer with 100% job success and 5-star feedback across all projects.
 
